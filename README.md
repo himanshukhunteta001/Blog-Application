@@ -27,5 +27,5 @@ This is a simple blog-post app built using React and Redux. It allows users to c
 ## Getting Started
 In the project directory you can run:
 
-##1.npm install 
-##2.npm start
+**1.npm install** 
+**##2.npm start**
